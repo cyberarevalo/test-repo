@@ -1,10 +1,10 @@
 pwd   //current dir
 cd "path"  //change mo directory paadto sing proj
 
-git init   //initialize du git repo
+git init   //initialize du local git repo
 ls //lista tanan file sa dir folder nadon
 
-git add . //add tanan file paado sa staging area
+git add . //add tanan file paado sa staging area ,pwede ngaean specific file
 git commit -m "comment sing commit"
 
 git remote add origin 'url dayon sing repository'
