@@ -1,2 +1,24 @@
-helooo
-wordS
+pwd   //current dir
+cd "path"  //change mo directory paadto sing proj
+
+git init   //initialize du git repo
+ls //lista tanan file sa dir folder nadon
+
+git add . //add tanan file paado sa staging area
+git commit -m "comment sing commit"
+
+git remote add origin 'url dayon sing repository'
+
+git push -u origin master
+
+
+//configure git user ag editor
+git config --global user.name 'imo nga github username'
+git config --global user.email 'imo nga email ad'
+
+code
+
+git config --global core.editor "code --wait"
+git config --global -e
+
+git config --global core.autocrlf true 
