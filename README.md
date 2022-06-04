@@ -1,3 +1,4 @@
 # test-repo
 
-![stack Overflow](https://drive.google.com/file/d/1zRaFDXcS2mgxwg14CbChUWYvgyiNkU_H/uc?usp=drivesdk)
+![stack Overflow](https://drive.google.com/file/d/1zRaFDXcS2mgxwg14CbChUWYvgyiNkU_H/view?usp=sharing)
+
